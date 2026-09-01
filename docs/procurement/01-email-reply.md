@@ -1,40 +1,42 @@
-# Email reply to procurement (ready to send)
+# 致采购的邮件回复（可直接发送）
 
-**To:** [Name]  
-**Subject:** Additional BoQ and draft layouts — additional scope of works
+**收件人：** [姓名]  
+**主题：** 补充工程量清单（BoQ）及草稿平面图 — 额外工程范围
 
 ---
 
-Hi [Name],
+您好 [姓名]，
 
-Thank you for the update. I understand you are in internal confirmation with the procurement team and need the additional scope of works confirmed before proceeding.
+感谢您的反馈。我理解贵方正在与采购团队进行内部确认，需要先确认额外工程范围后再推进。
 
-Please find attached:
+请查收附件：
 
-1. **Additional BoQ** — itemised quantities and descriptions for the extra scope of works  
-2. **Drawing register** — list of draft layouts and additional drawings currently available, with revision status
+1. **补充工程量清单（Additional BoQ）** — 额外工程范围的分项工程量及工作内容说明  
+2. **图纸目录（Drawing register）** — 目前已有的草稿平面图及其他补充图纸清单，含版本状态
 
-These are working drafts for your internal review. If procurement needs a finer breakdown (e.g. by area, trade, or unit rate), or if any item should be included/excluded, tell me and I will revise the same day.
+以上均为供内部审核的工作草稿。如采购需要更细的拆分（例如按区域、工种或综合单价），或需增减任何分项，请告知，我将当天修改后发回。
 
-Please confirm:
-- The exact additional scope items the team is reviewing  
-- Preferred BoQ format (Excel vs PDF)  
-- Whether unit rates should be shown now, or quantities/descriptions only at this stage
+请确认以下事项：
+- 团队正在审核的具体额外工程范围  
+- 希望的 BoQ 格式（Excel 或 PDF）  
+- 现阶段是否需要列出综合单价，还是仅提供工程量及工作内容说明
 
-I will send any updated drawings as soon as they are ready.
+图纸如有更新，我将尽快发出。
 
-Best regards,  
+此致  
+敬礼  
 Wang
 
 ---
 
-## Optional shorter version (if sending files the same day)
+## 可选短版（当天即发附件时使用）
 
-Hi [Name],
+您好 [姓名]，
 
-Thanks for the note. For your procurement internal confirmation, please find attached the additional BoQ and the draft layouts / additional drawings we currently have.
+感谢来信。为配合贵方采购内部确认，现附上补充工程量清单，以及我们目前已有的草稿平面图 / 其他补充图纸。
 
-Happy to adjust the breakdown or add missing items once you confirm the extra scope they are reviewing.
+请贵方确认正在审核的额外范围后，我可按需调整分项或补充分项。
 
-Best regards,  
+此致  
+敬礼  
 Wang

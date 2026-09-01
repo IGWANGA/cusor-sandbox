@@ -1,41 +1,41 @@
-Item No,Section,Description of Works,Unit,Qty,Rate,Amount,Remarks
-1,Additional Civil Works,Allow for additional civil / builder's works as per confirmed extra scope,Item,1,,,To be confirmed with procurement
-1.1,Additional Civil Works,Site preparation / making good for extra works,m2,,,,
-1.2,Additional Civil Works,Additional concrete works (foundations / slabs / upstands as applicable),m3,,,,
-1.3,Additional Civil Works,Additional masonry / partition works,m2,,,,
-1.4,Additional Civil Works,Additional flooring / finishes,m2,,,,
-1.5,Additional Civil Works,Additional ceiling works,m2,,,,
-1.6,Additional Civil Works,Additional painting and decoration,m2,,,,
-1.7,Additional Civil Works,Making good, protection, and cleaning after extra works,Item,1,,,
-2,Additional Architectural / Fit-out,Allow for additional architectural / interior fit-out,Item,1,,,
-2.1,Additional Architectural / Fit-out,Additional doors / frames / ironmongery,Nr,,,,
-2.2,Additional Architectural / Fit-out,Additional windows / glazing / screens,m2,,,,
-2.3,Additional Architectural / Fit-out,Additional joinery / millwork,Item,1,,,
-2.4,Additional Architectural / Fit-out,Additional loose furniture / FF&E (if in contract),Item,1,,,Confirm if in this package
-3,Additional MEP — Electrical,Allow for additional electrical services,Item,1,,,
-3.1,Additional MEP — Electrical,Additional power outlets / circuits,Nr,,,,
-3.2,Additional MEP — Electrical,Additional lighting points / fittings,Nr,,,,
-3.3,Additional MEP — Electrical,Additional cabling / containment,m,,,,
-3.4,Additional MEP — Electrical,Additional DB / breaker modifications,Item,1,,,
-3.5,Additional MEP — Electrical,Testing and commissioning of extra electrical works,Item,1,,,
-4,Additional MEP — Mechanical / HVAC,Allow for additional mechanical / HVAC works,Item,1,,,
-4.1,Additional MEP — Mechanical / HVAC,Additional ductwork / piping,m,,,,
-4.2,Additional MEP — Mechanical / HVAC,Additional indoor units / terminals / grilles,Nr,,,,
-4.3,Additional MEP — Mechanical / HVAC,Additional controls / BMS points,Nr,,,,
-4.4,Additional MEP — Mechanical / HVAC,Testing and commissioning of extra mechanical works,Item,1,,,
-5,Additional MEP — Plumbing / Drainage,Allow for additional plumbing and drainage,Item,1,,,
-5.1,Additional MEP — Plumbing / Drainage,Additional sanitary fixtures,Nr,,,,
-5.2,Additional MEP — Plumbing / Drainage,Additional pipework (hot / cold / waste),m,,,,
-5.3,Additional MEP — Plumbing / Drainage,Testing and commissioning of extra plumbing works,Item,1,,,
-6,Additional ELV / Low Voltage,Allow for additional ELV / IT / security works,Item,1,,,Confirm if in this package
-6.1,Additional ELV / Low Voltage,Additional data points,Nr,,,,
-6.2,Additional ELV / Low Voltage,Additional CCTV / access control points,Nr,,,,
-6.3,Additional ELV / Low Voltage,Additional fire alarm devices,Nr,,,,
-7,Additional External / Site Works,Allow for additional external / site works,Item,1,,,If applicable
-7.1,Additional External / Site Works,Additional paving / hardscape,m2,,,,
-7.2,Additional External / Site Works,Additional landscaping,m2,,,,
-8,Preliminaries for Additional Scope,Preliminaries attributable to extra scope (supervision, access, temporary works),Item,1,,,
-8.1,Preliminaries for Additional Scope,Temporary protection / hoarding / access,Item,1,,,
-8.2,Preliminaries for Additional Scope,Additional programme / night or overtime working (if required),Item,1,,,Provisional — confirm with procurement
-9,Provisional / Contingency,Provisional sum for unforeseen extra-scope items,Sum,1,,,Optional — confirm with client
-10,Notes,Quantities and rates to be completed once additional scope is confirmed in writing,Note,,,,Draft for internal confirmation only
+序号,分部,工作内容,单位,工程量,单价,合价,备注
+1,补充土建工程,按已确认的额外范围，计列补充土建/建筑施工,项,1,,,待与采购确认
+1.1,补充土建工程,额外工程的场地准备及修复,m2,,,,
+1.2,补充土建工程,补充混凝土工程（基础/楼板/反坎等，按实际适用）,m3,,,,
+1.3,补充土建工程,补充砌筑/隔墙工程,m2,,,,
+1.4,补充土建工程,补充地面/饰面工程,m2,,,,
+1.5,补充土建工程,补充吊顶工程,m2,,,,
+1.6,补充土建工程,补充油漆及装饰,m2,,,,
+1.7,补充土建工程,额外工程完成后的修复、成品保护及清洁,项,1,,,
+2,补充建筑/精装修,计列补充建筑及室内精装修,项,1,,,
+2.1,补充建筑/精装修,补充门/门框/五金,个,,,,
+2.2,补充建筑/精装修,补充窗/玻璃/隔断,m2,,,,
+2.3,补充建筑/精装修,补充木作/定制家具,项,1,,,
+2.4,补充建筑/精装修,补充活动家具/FF&E（如在合同范围内）,项,1,,,请确认是否纳入本包
+3,补充机电 — 电气,计列补充电气工程,项,1,,,
+3.1,补充机电 — 电气,补充插座/回路,个,,,,
+3.2,补充机电 — 电气,补充灯位/灯具,个,,,,
+3.3,补充机电 — 电气,补充电缆/桥架及管线,m,,,,
+3.4,补充机电 — 电气,补充配电箱/断路器改造,项,1,,,
+3.5,补充机电 — 电气,补充电气工程的测试与调试,项,1,,,
+4,补充机电 — 暖通,计列补充暖通/空调工程,项,1,,,
+4.1,补充机电 — 暖通,补充风管/管道,m,,,,
+4.2,补充机电 — 暖通,补充室内机/末端/风口,个,,,,
+4.3,补充机电 — 暖通,补充控制点/楼宇自控点位,个,,,,
+4.4,补充机电 — 暖通,补充暖通工程的测试与调试,项,1,,,
+5,补充机电 — 给排水,计列补充给排水工程,项,1,,,
+5.1,补充机电 — 给排水,补充卫生洁具,个,,,,
+5.2,补充机电 — 给排水,补充管道（冷热水/污水）,m,,,,
+5.3,补充机电 — 给排水,补充给排水工程的测试与调试,项,1,,,
+6,补充弱电,计列补充弱电/信息化/安防工程,项,1,,,请确认是否纳入本包
+6.1,补充弱电,补充数据点位,个,,,,
+6.2,补充弱电,补充监控/门禁点位,个,,,,
+6.3,补充弱电,补充火灾报警设备,个,,,,
+7,补充室外/场地工程,计列补充室外/场地工程,项,1,,,如适用
+7.1,补充室外/场地工程,补充铺装/硬质景观,m2,,,,
+7.2,补充室外/场地工程,补充绿化,m2,,,,
+8,额外范围的开办费,归属于额外范围的开办费（管理、通道、临时设施）,项,1,,,
+8.1,额外范围的开办费,临时保护/围挡/通道,项,1,,,
+8.2,额外范围的开办费,额外工期/夜间或加班施工（如需要）,项,1,,,暂列 — 待与采购确认
+9,暂列/预备费,不可预见额外范围的暂列金额,笔,1,,,可选 — 待与业主确认
+10,说明,工程量及单价待额外范围书面确认后再填写,说明,,,,仅供内部确认的草稿

@@ -1,43 +1,43 @@
-# Additional BoQ and drawings — cover note
+# 补充工程量清单及图纸 — 封面说明
 
-**Project:** [Project name]  
-**From:** Wang  
-**To:** Procurement / [Name]  
-**Date:** 1 September 2026  
-**Purpose:** Internal confirmation of additional scope of works
+**项目：** [项目名称]  
+**发件人：** Wang  
+**收件人：** 采购 / [姓名]  
+**日期：** 2026年9月1日  
+**目的：** 额外工程范围的内部确认
 
-## What is included
+## 本包包含内容
 
-| Document | File | Purpose |
+| 文件 | 路径 | 用途 |
 |---|---|---|
-| Email reply (ready to copy) | `01-email-reply.md` | Response to the procurement request |
-| Additional BoQ (draft) | `02-additional-boq.csv` | Open in Excel; fill Qty / Rate / Amount |
-| Drawing register | `03-drawing-register.csv` | List of draft layouts and extra drawings |
-| This cover note | `04-cover-note.md` | How to complete and send the pack |
+| 邮件回复（可直接复制） | `01-email-reply.md` | 回复采购来函 |
+| 补充工程量清单（草稿） | `02-additional-boq.csv` | 用 Excel 打开，填写工程量 / 单价 / 合价 |
+| 图纸目录 | `03-drawing-register.csv` | 草稿平面图及其他补充图纸清单 |
+| 本封面说明 | `04-cover-note.md` | 如何填写并发送本资料包 |
 
-## How to use this pack (5 minutes)
+## 使用方法（约 5 分钟）
 
-1. Open `02-additional-boq.csv` in Excel.  
-2. Delete rows that are **not** in the extra scope.  
-3. Fill **Qty**. Fill **Rate** and **Amount** only if procurement asked for priced BoQ; otherwise leave rates blank and send quantities/descriptions only.  
-4. Open `03-drawing-register.csv`. Keep only drawings you actually have. Attach those PDFs/DWGs.  
-5. Copy the email in `01-email-reply.md`, attach the Excel BoQ + drawings, and send.
+1. 用 Excel 打开 `02-additional-boq.csv`。  
+2. 删除**不属于**额外范围的行。  
+3. 填写**工程量**。仅在采购要求带价 BoQ 时填写**单价**和**合价**；否则单价留空，只发工程量及工作内容。  
+4. 打开 `03-drawing-register.csv`。只保留实际已有的图纸，并附上对应 PDF/DWG。  
+5. 复制 `01-email-reply.md` 中的邮件，附上 Excel 版 BoQ 和图纸后发送。
 
-## Status of drawings
+## 图纸现状
 
-This workspace does **not** contain issued architectural/MEP CAD files. The register is a draft list so procurement can see what is expected. Attach any layouts you already have (even sketches) and mark them **Draft**.
+本工作区**没有**已正式出图的建筑/机电 CAD 文件。图纸目录为草稿清单，便于采购了解预计出图内容。请附上您已有的任何平面图（即使是草图），并标注为**草稿**。
 
-If you have no drawings yet, still send the BoQ and say:
+若目前还没有图纸，仍可先发 BoQ，并说明：
 
-> Draft layouts for the additional scope are in progress. I will issue the first drawing set as soon as it is ready. In the meantime the attached BoQ describes the extra works for your internal confirmation.
+> 额外范围的草稿平面图正在编制中，第一套图纸一俟完成即发。现阶段所附 BoQ 已列明额外工程内容，供贵方内部确认。
 
-## Notes for procurement
+## 给采购的说明
 
-- This BoQ covers **additional / extra scope only**. It does not replace the original contract BoQ.  
-- Items are placeholders until the extra scope is confirmed in writing.  
-- Provisional sums and overtime are optional — remove them if not required.  
-- Unit rates, if included, should match the original contract rates where the same trade applies.
+- 本 BoQ **仅覆盖额外 / 补充范围**，不替代原合同工程量清单。  
+- 分项为占位，待额外范围书面确认后再定稿。  
+- 暂列金额和加班费用为可选项 — 不需要则删除。  
+- 如列入单价，相同工种应尽量与原合同单价保持一致。
 
-## Suggested next step
+## 建议下一步
 
-Ask procurement to mark the BoQ **confirmed / revise / not required** per line so the extra scope can be frozen and drawings issued to match.
+请采购按行标注 BoQ 为 **确认 / 修改 / 不需要**，以便冻结额外范围并据此出图。

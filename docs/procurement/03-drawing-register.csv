@@ -1,11 +1,11 @@
-Drawing No,Title,Type,Revision,Date,Status,File / Location,Notes
-A-ADD-001,Additional Scope — Overall Layout (Draft),Layout,A,[YYYY-MM-DD],Draft — for review,docs/procurement/drawings/,Key plan showing extra-scope areas
-A-ADD-002,Additional Scope — Floor Plan,Architectural,A,[YYYY-MM-DD],Draft — for review,docs/procurement/drawings/,Mark extra works vs original contract
-A-ADD-003,Additional Scope — Reflected Ceiling Plan (if required),Architectural,A,[YYYY-MM-DD],Not started / TBD,docs/procurement/drawings/,Issue if ceiling works are in extra scope
-A-ADD-004,Additional Scope — Interior Elevations / Details,Architectural,A,[YYYY-MM-DD],Not started / TBD,docs/procurement/drawings/,
-E-ADD-001,Additional Electrical Layout,MEP,A,[YYYY-MM-DD],Draft / TBD,docs/procurement/drawings/,Power and lighting for extra areas
-M-ADD-001,Additional Mechanical / HVAC Layout,MEP,A,[YYYY-MM-DD],Draft / TBD,docs/procurement/drawings/,
-P-ADD-001,Additional Plumbing / Drainage Layout,MEP,A,[YYYY-MM-DD],Draft / TBD,docs/procurement/drawings/,
-ELV-ADD-001,Additional ELV / Data / Security Layout,MEP,A,[YYYY-MM-DD],Draft / TBD,docs/procurement/drawings/,Confirm if in package
-C-ADD-001,Additional Civil / Structural Sketch,Civil,A,[YYYY-MM-DD],Draft / TBD,docs/procurement/drawings/,Only if extra civil/structural works apply
-SK-ADD-001,Sketch — Scope Boundary / Interface with Original Works,Sketch,A,[YYYY-MM-DD],Draft — for review,docs/procurement/drawings/,Use to avoid double-counting with original BoQ
+图号,图名,类型,版本,日期,状态,文件/位置,备注
+A-ADD-001,额外范围 — 总平面图（草稿）,平面,A,[年-月-日],草稿 — 待审核,docs/procurement/drawings/,标明额外范围区域的关键平面
+A-ADD-002,额外范围 — 平面布置图,建筑,A,[年-月-日],草稿 — 待审核,docs/procurement/drawings/,标注额外工程与原合同范围的区别
+A-ADD-003,额外范围 — 天花平面图（如需要）,建筑,A,[年-月-日],未开始 / 待定,docs/procurement/drawings/,若额外范围含吊顶工程再出图
+A-ADD-004,额外范围 — 室内立面/详图,建筑,A,[年-月-日],未开始 / 待定,docs/procurement/drawings/,
+E-ADD-001,补充电气平面图,机电,A,[年-月-日],草稿 / 待定,docs/procurement/drawings/,额外区域的强电及照明
+M-ADD-001,补充暖通平面图,机电,A,[年-月-日],草稿 / 待定,docs/procurement/drawings/,
+P-ADD-001,补充给排水平面图,机电,A,[年-月-日],草稿 / 待定,docs/procurement/drawings/,
+ELV-ADD-001,补充弱电/数据/安防平面图,机电,A,[年-月-日],草稿 / 待定,docs/procurement/drawings/,请确认是否纳入本包
+C-ADD-001,补充土建/结构草图,土建,A,[年-月-日],草稿 / 待定,docs/procurement/drawings/,仅在有额外土建/结构工程时出具
+SK-ADD-001,草图 — 范围边界 / 与原工程交界面,草图,A,[年-月-日],草稿 — 待审核,docs/procurement/drawings/,用于避免与原合同 BoQ 重复计量

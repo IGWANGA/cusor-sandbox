@@ -1,12 +1,12 @@
-# Draft layouts / additional drawings
+# 草稿平面图 / 补充图纸
 
-Put PDF, DWG, or image files for the extra scope in this folder.
+请将额外范围的 PDF、DWG 或图片文件放在本文件夹。
 
-Suggested names (match the drawing register):
+建议命名（与图纸目录一致）：
 
-- `A-ADD-001_additional-scope-overall-layout-draft.pdf`
-- `A-ADD-002_additional-scope-floor-plan-draft.pdf`
-- `E-ADD-001_additional-electrical-layout-draft.pdf`
-- `SK-ADD-001_scope-boundary-sketch.pdf`
+- `A-ADD-001_额外范围总平面草稿.pdf`
+- `A-ADD-002_额外范围平面布置草稿.pdf`
+- `E-ADD-001_补充电气平面草稿.pdf`
+- `SK-ADD-001_范围边界草图.pdf`
 
-If a drawing is not ready, leave it out of the email and mark the register row as **Not started / TBD**.
+某张图尚未完成时，不要附在邮件中，并在图纸目录对应行标注为 **未开始 / 待定**。
