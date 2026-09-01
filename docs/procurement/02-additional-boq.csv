@@ -1,0 +1,41 @@
+Item No,Section,Description of Works,Unit,Qty,Rate,Amount,Remarks
+1,Additional Civil Works,Allow for additional civil / builder's works as per confirmed extra scope,Item,1,,,To be confirmed with procurement
+1.1,Additional Civil Works,Site preparation / making good for extra works,m2,,,,
+1.2,Additional Civil Works,Additional concrete works (foundations / slabs / upstands as applicable),m3,,,,
+1.3,Additional Civil Works,Additional masonry / partition works,m2,,,,
+1.4,Additional Civil Works,Additional flooring / finishes,m2,,,,
+1.5,Additional Civil Works,Additional ceiling works,m2,,,,
+1.6,Additional Civil Works,Additional painting and decoration,m2,,,,
+1.7,Additional Civil Works,Making good, protection, and cleaning after extra works,Item,1,,,
+2,Additional Architectural / Fit-out,Allow for additional architectural / interior fit-out,Item,1,,,
+2.1,Additional Architectural / Fit-out,Additional doors / frames / ironmongery,Nr,,,,
+2.2,Additional Architectural / Fit-out,Additional windows / glazing / screens,m2,,,,
+2.3,Additional Architectural / Fit-out,Additional joinery / millwork,Item,1,,,
+2.4,Additional Architectural / Fit-out,Additional loose furniture / FF&E (if in contract),Item,1,,,Confirm if in this package
+3,Additional MEP — Electrical,Allow for additional electrical services,Item,1,,,
+3.1,Additional MEP — Electrical,Additional power outlets / circuits,Nr,,,,
+3.2,Additional MEP — Electrical,Additional lighting points / fittings,Nr,,,,
+3.3,Additional MEP — Electrical,Additional cabling / containment,m,,,,
+3.4,Additional MEP — Electrical,Additional DB / breaker modifications,Item,1,,,
+3.5,Additional MEP — Electrical,Testing and commissioning of extra electrical works,Item,1,,,
+4,Additional MEP — Mechanical / HVAC,Allow for additional mechanical / HVAC works,Item,1,,,
+4.1,Additional MEP — Mechanical / HVAC,Additional ductwork / piping,m,,,,
+4.2,Additional MEP — Mechanical / HVAC,Additional indoor units / terminals / grilles,Nr,,,,
+4.3,Additional MEP — Mechanical / HVAC,Additional controls / BMS points,Nr,,,,
+4.4,Additional MEP — Mechanical / HVAC,Testing and commissioning of extra mechanical works,Item,1,,,
+5,Additional MEP — Plumbing / Drainage,Allow for additional plumbing and drainage,Item,1,,,
+5.1,Additional MEP — Plumbing / Drainage,Additional sanitary fixtures,Nr,,,,
+5.2,Additional MEP — Plumbing / Drainage,Additional pipework (hot / cold / waste),m,,,,
+5.3,Additional MEP — Plumbing / Drainage,Testing and commissioning of extra plumbing works,Item,1,,,
+6,Additional ELV / Low Voltage,Allow for additional ELV / IT / security works,Item,1,,,Confirm if in this package
+6.1,Additional ELV / Low Voltage,Additional data points,Nr,,,,
+6.2,Additional ELV / Low Voltage,Additional CCTV / access control points,Nr,,,,
+6.3,Additional ELV / Low Voltage,Additional fire alarm devices,Nr,,,,
+7,Additional External / Site Works,Allow for additional external / site works,Item,1,,,If applicable
+7.1,Additional External / Site Works,Additional paving / hardscape,m2,,,,
+7.2,Additional External / Site Works,Additional landscaping,m2,,,,
+8,Preliminaries for Additional Scope,Preliminaries attributable to extra scope (supervision, access, temporary works),Item,1,,,
+8.1,Preliminaries for Additional Scope,Temporary protection / hoarding / access,Item,1,,,
+8.2,Preliminaries for Additional Scope,Additional programme / night or overtime working (if required),Item,1,,,Provisional — confirm with procurement
+9,Provisional / Contingency,Provisional sum for unforeseen extra-scope items,Sum,1,,,Optional — confirm with client
+10,Notes,Quantities and rates to be completed once additional scope is confirmed in writing,Note,,,,Draft for internal confirmation only

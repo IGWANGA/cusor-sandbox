@@ -1,0 +1,11 @@
+Drawing No,Title,Type,Revision,Date,Status,File / Location,Notes
+A-ADD-001,Additional Scope — Overall Layout (Draft),Layout,A,[YYYY-MM-DD],Draft — for review,docs/procurement/drawings/,Key plan showing extra-scope areas
+A-ADD-002,Additional Scope — Floor Plan,Architectural,A,[YYYY-MM-DD],Draft — for review,docs/procurement/drawings/,Mark extra works vs original contract
+A-ADD-003,Additional Scope — Reflected Ceiling Plan (if required),Architectural,A,[YYYY-MM-DD],Not started / TBD,docs/procurement/drawings/,Issue if ceiling works are in extra scope
+A-ADD-004,Additional Scope — Interior Elevations / Details,Architectural,A,[YYYY-MM-DD],Not started / TBD,docs/procurement/drawings/,
+E-ADD-001,Additional Electrical Layout,MEP,A,[YYYY-MM-DD],Draft / TBD,docs/procurement/drawings/,Power and lighting for extra areas
+M-ADD-001,Additional Mechanical / HVAC Layout,MEP,A,[YYYY-MM-DD],Draft / TBD,docs/procurement/drawings/,
+P-ADD-001,Additional Plumbing / Drainage Layout,MEP,A,[YYYY-MM-DD],Draft / TBD,docs/procurement/drawings/,
+ELV-ADD-001,Additional ELV / Data / Security Layout,MEP,A,[YYYY-MM-DD],Draft / TBD,docs/procurement/drawings/,Confirm if in package
+C-ADD-001,Additional Civil / Structural Sketch,Civil,A,[YYYY-MM-DD],Draft / TBD,docs/procurement/drawings/,Only if extra civil/structural works apply
+SK-ADD-001,Sketch — Scope Boundary / Interface with Original Works,Sketch,A,[YYYY-MM-DD],Draft — for review,docs/procurement/drawings/,Use to avoid double-counting with original BoQ
