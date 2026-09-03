@@ -1,17 +1,17 @@
-# 草稿平面图 / 补充图纸（已按区域拆成三份）
+# Draft layouts / additional drawings (split into three packs)
 
-报价和图纸同一区域、同一份附件。请将 PDF、DWG 或图片放到对应文件夹，不要混放。
+Keep quotes and drawings in the same area pack. Put PDF, DWG or images in the matching folder — do not mix areas.
 
-| 区域 | 文件夹 | 图纸目录 | 随哪一份 Excel 发出 |
+| Area | Folder | Drawing register | Send with |
 |---|---|---|---|
-| 25 楼实验室 | `25f-lab/` | `../03a-drawings-25f-lab.csv` | `A-25楼实验室-报价与图纸.xlsx` |
-| 旧实验室修改 | `old-lab/` | `../03b-drawings-old-lab.csv` | `B-旧实验室修改-报价与图纸.xlsx` |
-| 一楼仓库 | `1f-warehouse/` | `../03c-drawings-1f-warehouse.csv` | `C-一楼仓库-报价与图纸.xlsx` |
+| 25F Laboratory | `25f-lab/` | `../03a-drawings-25f-lab.csv` | `A-25F-laboratory-quote-and-drawings.xlsx` |
+| Existing lab modifications | `old-lab/` | `../03b-drawings-old-lab.csv` | `B-existing-lab-mods-quote-and-drawings.xlsx` |
+| 1F Warehouse | `1f-warehouse/` | `../03c-drawings-1f-warehouse.csv` | `C-1F-warehouse-quote-and-drawings.xlsx` |
 
-建议文件名与目录图号一致，例如：
+Name files to match the register, for example:
 
-- `25f-lab/A-L25-001_25楼实验室平面草稿.pdf`
-- `old-lab/A-OL-001_旧实验室拆除范围草稿.pdf`
-- `1f-warehouse/A-WH-001_一楼仓库平面草稿.pdf`
+- `25f-lab/A-L25-001_25F-laboratory-layout-draft.pdf`
+- `old-lab/A-OL-001_existing-lab-strip-out-draft.pdf`
+- `1f-warehouse/A-WH-001_1F-warehouse-layout-draft.pdf`
 
-某张图尚未完成时，不要附在邮件中，并在该份图纸目录对应行标注为 **未开始 / 待定**。
+If a drawing is not ready, do not attach it. Mark that row **Not started / TBD**.

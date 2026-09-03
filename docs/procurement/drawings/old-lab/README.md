@@ -1,3 +1,3 @@
-# 旧实验室修改 — 图纸
+# Existing lab modifications — drawings
 
-将拆除范围、改造后平面、台柜/管线改位对照图放在此文件夹。建议在图上标明保留 / 拆除 / 新增。
+Put strip-out extents, altered layout, and bench/services relocation overlays in this folder. Mark retain / strip-out / new on the drawings.

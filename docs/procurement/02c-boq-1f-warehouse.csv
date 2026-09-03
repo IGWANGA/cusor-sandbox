@@ -1,47 +1,47 @@
-﻿序号,区域,分部,工作内容,单位,工程量,单价,合价,备注
-A,一楼仓库,开办费,一楼仓库范围内的管理、卸货通道、围挡及临时设施,项,1,,,仅计本区域
-A.1,一楼仓库,开办费,一楼卸货口占用、临时围挡及交通引导,项,1,,,
-A.2,一楼仓库,开办费,成品保护（柱面、门口、已完地坪）,项,1,,,
-A.3,一楼仓库,开办费,建筑垃圾清运（一楼）,项,1,,,
-B,一楼仓库,地面,仓库地坪、找平、面层及划线,项,1,,,
-B.1,一楼仓库,地面,原地面清理、空鼓修补、找平,m2,,,,
-B.2,一楼仓库,地面,混凝土补强 / 硬化剂地坪（如需要）,m2,,,,请确认是否已有结构地坪
-B.3,一楼仓库,地面,环氧地坪（或耐磨地坪，待确认）,m2,,,,
-B.4,一楼仓库,地面,车位 / 货位 / 通道划线及编号,m,,,,
-B.5,一楼仓库,地面,防撞角钢 / 柱角护角,处,,,,
-C,一楼仓库,墙面及门,墙面涂料、防撞及大门,项,1,,,
-C.1,一楼仓库,墙面及门,内墙抹灰修补及涂料（含防火涂料，按需）,m2,,,,
-C.2,一楼仓库,墙面及门,电动卷帘门（含导轨、电机、控制）,樘,,,,卸货口
-C.3,一楼仓库,墙面及门,人行防火门 / 疏散门,樘,,,,
-C.4,一楼仓库,墙面及门,门斗、雨篷或卸货平台防雨配合,项,1,,,如现场有
-D,一楼仓库,货架配合,货架基础、预埋及安装配合（不含货架供货，除非确认纳入）,项,1,,,货架供货请采购确认
-D.1,一楼仓库,货架配合,货架地脚螺栓预埋 / 植筋,处,,,,
-D.2,一楼仓库,货架配合,局部基础加厚或垫层,m3,,,,按货架厂家荷载
-D.3,一楼仓库,货架配合,货架供货及安装（暂列，可选）,项,1,,,不在本合同则删除
-E,一楼仓库,电气照明,仓库动力配电及高天井照明,项,1,,,
-E.1,一楼仓库,电气照明,仓库配电箱,台,,,,
-E.2,一楼仓库,电气照明,电缆、桥架及配管,m,,,,
-E.3,一楼仓库,电气照明,高天井灯 / LED 工矿灯,套,,,,
-E.4,一楼仓库,电气照明,应急照明及出口指示,套,,,,
-E.5,一楼仓库,电气照明,叉车 / 充电或动力插座（如需要）,个,,,,
-E.6,一楼仓库,电气照明,电气测试与调试,项,1,,,
-F,一楼仓库,通风,仓库通风（换气扇或风管，按层高及存货）,项,1,,,如仅自然通风可删
-F.1,一楼仓库,通风,排风扇 / 屋顶风机,台,,,,
-F.2,一楼仓库,通风,风管及风口（如有）,m,,,,
-G,一楼仓库,消防,仓库消防喷淋、感烟、灭火器及防火封堵,项,1,,,按消防审查
-G.1,一楼仓库,消防,喷淋管道、喷头及支架,m,,,,如原系统可接驳请注明
-G.2,一楼仓库,消防,感烟 / 感温探测器,个,,,,
-G.3,一楼仓库,消防,消火栓箱改位或新增（如需要）,套,,,,
-G.4,一楼仓库,消防,灭火器箱及配置,套,,,,
-G.5,一楼仓库,消防,防火封堵,项,1,,,
-H,一楼仓库,弱电,监控、门禁及数据（仓库办公角，如有）,项,1,,,请确认是否纳入本包
-H.1,一楼仓库,弱电,监控点位,个,,,,卸货口及货区
-H.2,一楼仓库,弱电,门禁点位,个,,,,
-H.3,一楼仓库,弱电,数据点位（值班/办公小间）,个,,,,
-I,一楼仓库,辅房（可选）,仓库内值班室 / 办公小间隔墙及简单装修,项,1,,,没有辅房则整分部删除
-I.1,一楼仓库,辅房（可选）,轻质隔墙及门,m2,,,,
-I.2,一楼仓库,辅房（可选）,简易吊顶、地面、灯具,m2,,,,
-J,一楼仓库,标识及交工,标识标牌、竣工清洁,项,1,,,
-J.1,一楼仓库,标识及交工,安全标识、限高、禁放、疏散图,项,1,,,
-J.2,一楼仓库,标识及交工,竣工清洁及保护拆除,项,1,,,
-K,一楼仓库,暂列,一楼仓库不可预见费（可选）,笔,1,,,不需要则删除
+﻿Item,Area,Trade,Description,Unit,Qty,Rate,Amount,Remarks
+A,1F Warehouse,Preliminaries,"Management, unloading access, hoarding and temporary works for the 1F warehouse only",item,1,,,This area only
+A.1,1F Warehouse,Preliminaries,"Occupation of 1F loading door, temporary hoarding and traffic guidance",item,1,,,
+A.2,1F Warehouse,Preliminaries,"Protection of columns, doorways and completed floors",item,1,,,
+A.3,1F Warehouse,Preliminaries,Construction waste removal (Level 1),item,1,,,
+B,1F Warehouse,Flooring,"Warehouse slab, levelling, finish and lining",item,1,,,
+B.1,1F Warehouse,Flooring,"Clean existing slab, repair hollow spots, level",m2,,,,
+B.2,1F Warehouse,Flooring,Concrete make-up / hardener (if required),m2,,,,Confirm if structural slab already exists
+B.3,1F Warehouse,Flooring,Epoxy floor (or wear-resistant finish — TBC),m2,,,,
+B.4,1F Warehouse,Flooring,Bay / aisle lining and numbering,m,,,,
+B.5,1F Warehouse,Flooring,Column guards / corner protection,nr,,,,
+C,1F Warehouse,Walls & doors,"Wall coatings, impact protection and doors",item,1,,,
+C.1,1F Warehouse,Walls & doors,Internal plaster repair and paint (incl. intumescent if required),m2,,,,
+C.2,1F Warehouse,Walls & doors,"Powered roller shutter (incl. guides, motor, controls)",nr,,,,Loading door
+C.3,1F Warehouse,Walls & doors,Pedestrian fire / escape door,nr,,,,
+C.4,1F Warehouse,Walls & doors,"Lobby, canopy or loading-dock rain protection",item,1,,,If present on site
+D,1F Warehouse,Racking builder’s work,"Racking bases, embeds and install attend (racking supply excluded unless confirmed)",item,1,,,Confirm racking supply with procurement
+D.1,1F Warehouse,Racking builder’s work,Embed / chemical-anchor racking base bolts,nr,,,,
+D.2,1F Warehouse,Racking builder’s work,Local thickened base or blinding,m3,,,,Per racking supplier loads
+D.3,1F Warehouse,Racking builder’s work,"Racking supply and install (provisional, optional)",item,1,,,Delete if not in this contract
+E,1F Warehouse,Power & lighting,Warehouse power distribution and high-bay lighting,item,1,,,
+E.1,1F Warehouse,Power & lighting,Warehouse distribution board,nr,,,,
+E.2,1F Warehouse,Power & lighting,"Cables, tray and conduit",m,,,,
+E.3,1F Warehouse,Power & lighting,High-bay / LED industrial luminaire,set,,,,
+E.4,1F Warehouse,Power & lighting,Emergency lighting and exit signs,set,,,,
+E.5,1F Warehouse,Power & lighting,Forklift / charging or power socket (if required),nr,,,,
+E.6,1F Warehouse,Power & lighting,Electrical testing and commissioning,item,1,,,
+F,1F Warehouse,Ventilation,"Warehouse ventilation (fans or duct, per height and stock)",item,1,,,Delete if natural ventilation only
+F.1,1F Warehouse,Ventilation,Extract fan / roof fan,nr,,,,
+F.2,1F Warehouse,Ventilation,Duct and grille (if any),m,,,,
+G,1F Warehouse,Fire,"Warehouse sprinklers, detection, extinguishers and fire-stopping",item,1,,,Per fire review
+G.1,1F Warehouse,Fire,"Sprinkler pipe, heads and supports",m,,,,Note if tying into existing system
+G.2,1F Warehouse,Fire,Smoke / heat detector,nr,,,,
+G.3,1F Warehouse,Fire,Relocate or add hose-reel cabinet (if required),set,,,,
+G.4,1F Warehouse,Fire,Extinguisher cabinet and contents,set,,,,
+G.5,1F Warehouse,Fire,Fire-stopping,item,1,,,
+H,1F Warehouse,ELV,"CCTV, access and data (warehouse office corner, if any)",item,1,,,Confirm if in this package
+H.1,1F Warehouse,ELV,CCTV point,nr,,,,Loading door and storage
+H.2,1F Warehouse,ELV,Access-control point,nr,,,,
+H.3,1F Warehouse,ELV,Data outlet (duty / small office),nr,,,,
+I,1F Warehouse,Ancillary room (optional),Duty / small office partitions and simple fit-out inside the warehouse,item,1,,,Delete whole trade if no ancillary room
+I.1,1F Warehouse,Ancillary room (optional),Light partitions and door,m2,,,,
+I.2,1F Warehouse,Ancillary room (optional),"Simple ceiling, floor and lights",m2,,,,
+J,1F Warehouse,Signage & handover,Signs and final clean,item,1,,,
+J.1,1F Warehouse,Signage & handover,"Safety signs, height limit, no-storage and escape plan",item,1,,,
+J.2,1F Warehouse,Signage & handover,Final clean and removal of protection,item,1,,,
+K,1F Warehouse,Provisional,Contingency for 1F warehouse (optional),item,1,,,Delete if not required

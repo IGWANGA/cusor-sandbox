@@ -1,3 +1,3 @@
-# 一楼仓库 — 图纸
+# 1F Warehouse — drawings
 
-将仓库平面、地坪划线、大门/装卸、货架布置、照明及消防草稿放在此文件夹。
+Put the warehouse layout, floor lining, doors/loading, racking, lighting and fire drafts in this folder.

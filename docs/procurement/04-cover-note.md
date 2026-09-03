@@ -1,63 +1,63 @@
-# 补充报价与图纸 — 封面说明
+# Additional quotes and drawings — cover note
 
-**项目：** [项目名称]  
-**发件人：** Wang  
-**收件人：** 采购 / [姓名]  
-**日期：** 2026年9月3日  
-**目的：** 额外工程的报价和图纸都按三个区域分开内部确认
+**Project:** [Project name]  
+**From:** Wang  
+**To:** Procurement / [Name]  
+**Date:** 3 September 2026  
+**Purpose:** Extra-scope quotes and drawings split into three areas for internal confirmation
 
-## 本包包含内容
+## What to send
 
-发给采购的是 **三份独立文件**（报价 + 图纸在一起）：
+Send **three standalone files** (quote + drawings together):
 
-| 编号 | 文件 | 内含工作表 |
+| Pack | File | Sheets |
 |---|---|---|
-| A | `A-25楼实验室-报价与图纸.xlsx` | 报价单、图纸目录 |
-| B | `B-旧实验室修改-报价与图纸.xlsx` | 报价单、图纸目录 |
-| C | `C-一楼仓库-报价与图纸.xlsx` | 报价单、图纸目录 |
+| A | `A-25F-laboratory-quote-and-drawings.xlsx` | Quote, Drawing register |
+| B | `B-existing-lab-mods-quote-and-drawings.xlsx` | Quote, Drawing register |
+| C | `C-1F-warehouse-quote-and-drawings.xlsx` | Quote, Drawing register |
 
-其余为工作底稿，一般不必全发给采购：
+Working files (usually not all sent):
 
-| 文件 | 路径 | 用途 |
+| File | Path | Use |
 |---|---|---|
-| 区域总览 | `00-区域总览.md` | 三份各自覆盖什么 |
-| 邮件回复 | `01-email-reply.md` | 可复制发送 |
-| 报价 csv | `02a` / `02b` / `02c` | 与 Excel 报价表相同 |
-| 图纸 csv | `03a` / `03b` / `03c` | 与 Excel 图纸目录相同 |
-| 合订本 | `报价与图纸-按区域拆分.xlsx` | 三区总盘，不必当附件 |
-| 图纸文件夹 | `drawings/25f-lab/` 等 | 放实际 PDF/DWG |
+| Area overview | `00-area-overview.md` | What each pack covers |
+| Email reply | `01-email-reply.md` | Ready to copy |
+| BoQ csv | `02a` / `02b` / `02c` | Same as Excel quote sheets |
+| Drawing csv | `03a` / `03b` / `03c` | Same as Excel drawing registers |
+| Combined book | `quotes-and-drawings-by-area.xlsx` | Overview of all three; optional attachment |
+| Drawing folders | `drawings/25f-lab/` etc. | Put actual PDF/DWG here |
 
-原先混在一起的 `02-additional-boq.csv` 和单张 `报价单-按区域拆分.xlsx` 不要再发。
+Do not send the old combined `02-additional-boq.csv` or the Chinese-named files.
 
-## 使用方法（约 5 分钟）
+## How to use (about 5 minutes)
 
-1. 打开 A / B / C 三份 Excel，在「报价单」填工程量；采购要带价时再填单价。  
-2. 在「图纸目录」只保留实际已有的图，把 PDF/DWG 放进对应文件夹。  
-3. 复制 `01-email-reply.md` 中的邮件，**附上三份 Excel + 已有图纸**后发送。  
-4. 不要把 25 楼的量或图放进仓库，也不要把旧实验室拆除放进新实验室。
+1. Open packs A / B / C. Fill **Qty** on the Quote sheet; fill **Rate** only if procurement wants a priced BoQ.  
+2. On Drawing register, keep only drawings you actually have. Put PDF/DWG in the matching folder.  
+3. Copy the email in `01-email-reply.md`. Attach the **three Excel files + any existing drawings**.  
+4. Do not put 25F quantities or drawings on the warehouse pack, or existing-lab strip-out on the new 25F laboratory.
 
-## 三个区域怎么划分
+## How the three areas split
 
-| 区域 | 报价和图纸都算进去 | 不要算进去 |
+| Area | Include in quote and drawings | Do not include |
 |---|---|---|
-| 25 楼实验室 | 该层新做实验室的隔墙、饰面、台柜、通风柜、实验水电、排风 | 旧实验室拆除/改位；一楼仓库地坪大门 |
-| 旧实验室修改 | 保护、拆除、改隔墙、台柜移位、管线改位、修复 | 25 楼新做内容；仓库 |
-| 一楼仓库 | 地坪、门、照明、动力、消防、装卸 | 实验室家具、通风柜、实验废水 |
+| 25F Laboratory | New lab partitions, finishes, benches, fume hoods, lab MEP, extract | Existing-lab strip-out/relocation; 1F warehouse floor and doors |
+| Existing lab modifications | Protection, strip-out, partition/bench/services moves, make good | New 25F work; warehouse |
+| 1F Warehouse | Floor, doors, lighting, power, fire, loading | Lab furniture, fume hoods, lab waste |
 
-## 图纸现状
+## Drawing status
 
-本工作区**没有**已正式出图的建筑/机电 CAD 文件。图纸目录已按三个区域拆开，与报价一一对应。请把已有平面图（即使是草图）放进对应文件夹，并标注为**草稿**。
+This workspace has **no issued architecture/MEP CAD**. The registers are split by the same three areas as the quotes. Put any layouts you have (even sketches) in the matching folder and mark them **Draft**.
 
-若目前还没有图纸，仍可先发三份 Excel，并说明：
+If there are no drawings yet, still send the three Excel files and say:
 
-> 三个区域的草稿平面图正在编制中，第一套图纸一俟完成即按区域补发。现阶段所附三份文件已将报价与图纸目录按 25 楼实验室、旧实验室修改、一楼仓库分开，供贵方内部确认。
+> Draft layouts for the three areas are in preparation and will be issued by area as soon as the first set is ready. The three attached files already split quotes and drawing registers for the 25F Laboratory, existing lab modifications, and 1F Warehouse, for your internal confirmation.
 
-## 给采购的说明
+## Notes for procurement
 
-- 三份都只覆盖 **额外 / 补充范围**，不替代原合同。  
-- 工程量待实量、单价建议与原合同同类工种一致。  
-- 请对 **每一份** 分别标注 **确认 / 修改 / 不需要**。
+- All three packs cover **additional / extra scope only**. They do not replace the original contract BoQ.  
+- Quantities await site measure; rates should follow like trades on the original contract.  
+- Please mark **each pack** **Confirmed / Revise / Not required**.
 
-## 建议下一步
+## Suggested next step
 
-请采购按三份各自回一版意见，以便冻结范围并按区域出图。
+Ask procurement to return comments on each of the three packs so extra scope can be frozen and drawings issued by area.

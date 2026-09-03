@@ -1,3 +1,3 @@
-# 25 楼实验室 — 图纸
+# 25F Laboratory — drawings
 
-将本区域平面图、天花图、实验台布置、通风柜/排风、电气及给排水草稿放在此文件夹。
+Put this area’s layout, RCP, bench layout, fume-hood/extract, electrical and plumbing drafts in this folder.

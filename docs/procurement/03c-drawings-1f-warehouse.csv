@@ -1,5 +1,5 @@
-﻿图号,区域,图名,类型,版本,日期,状态,文件/位置,备注
-A-WH-001,一楼仓库,一楼仓库 — 平面布置图（草稿）,建筑,A,2026-09-03,草稿 — 待审核,drawings/1f-warehouse/,大门、货区、辅房
-A-WH-002,一楼仓库,一楼仓库 — 地坪划线及货架布置,建筑,A,2026-09-03,草稿 / 待定,drawings/1f-warehouse/,货架若甲供仍需此图配合
-E-WH-001,一楼仓库,一楼仓库 — 电气照明平面图,机电,A,2026-09-03,草稿 / 待定,drawings/1f-warehouse/,高天井灯、动力
-F-WH-001,一楼仓库,一楼仓库 — 消防平面图,机电,A,2026-09-03,草稿 / 待定,drawings/1f-warehouse/,喷淋、感烟、疏散
+﻿Dwg no.,Area,Title,Discipline,Rev,Date,Status,File / location,Remarks
+A-WH-001,1F Warehouse,1F warehouse — floor layout (draft),Architecture,A,2026-09-03,Draft — for review,drawings/1f-warehouse/,"Doors, storage, ancillary"
+A-WH-002,1F Warehouse,1F warehouse — floor lining and racking,Architecture,A,2026-09-03,Draft / TBD,drawings/1f-warehouse/,Still needed if racking is client-supplied
+E-WH-001,1F Warehouse,1F warehouse — electrical / lighting,MEP,A,2026-09-03,Draft / TBD,drawings/1f-warehouse/,"High-bay lighting, power"
+F-WH-001,1F Warehouse,1F warehouse — fire layout,MEP,A,2026-09-03,Draft / TBD,drawings/1f-warehouse/,"Sprinklers, detection, escape"

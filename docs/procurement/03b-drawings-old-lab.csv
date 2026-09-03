@@ -1,6 +1,6 @@
-﻿图号,区域,图名,类型,版本,日期,状态,文件/位置,备注
-A-OL-001,旧实验室修改,旧实验室 — 现状 / 拆除范围图,建筑,A,2026-09-03,草稿 — 待审核,drawings/old-lab/,标明保留 / 拆除
-A-OL-002,旧实验室修改,旧实验室 — 改造后平面图,建筑,A,2026-09-03,草稿 — 待审核,drawings/old-lab/,与拆除图对照
-A-OL-003,旧实验室修改,旧实验室 — 台柜及管线改位对照,草图,A,2026-09-03,草稿 / 待定,drawings/old-lab/,避免与25楼新做重复计量
-E-OL-001,旧实验室修改,旧实验室 — 电气改位平面图,机电,A,2026-09-03,草稿 / 待定,drawings/old-lab/,
-M-OL-001,旧实验室修改,旧实验室 — 排风 / 空调改位平面图,机电,A,2026-09-03,草稿 / 待定,drawings/old-lab/,
+﻿Dwg no.,Area,Title,Discipline,Rev,Date,Status,File / location,Remarks
+A-OL-001,Existing Lab Modifications,Existing lab — as-built / strip-out,Architecture,A,2026-09-03,Draft — for review,drawings/old-lab/,Mark retain / strip-out
+A-OL-002,Existing Lab Modifications,Existing lab — altered layout,Architecture,A,2026-09-03,Draft — for review,drawings/old-lab/,Read against strip-out drawing
+A-OL-003,Existing Lab Modifications,Existing lab — bench and services relocation overlay,Sketch,A,2026-09-03,Draft / TBD,drawings/old-lab/,Avoid double-counting 25F new work
+E-OL-001,Existing Lab Modifications,Existing lab — electrical relocation,MEP,A,2026-09-03,Draft / TBD,drawings/old-lab/,
+M-OL-001,Existing Lab Modifications,Existing lab — extract / AC relocation,MEP,A,2026-09-03,Draft / TBD,drawings/old-lab/,

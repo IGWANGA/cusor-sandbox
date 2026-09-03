@@ -1,17 +1,17 @@
-﻿图号,区域,图名,类型,版本,日期,状态,文件/位置,备注
-A-L25-001,25楼实验室,25楼实验室 — 平面布置图（草稿）,建筑,A,2026-09-03,草稿 — 待审核,drawings/25f-lab/,隔墙、功能分区、门窗
-A-L25-002,25楼实验室,25楼实验室 — 实验台及家具布置图,建筑,A,2026-09-03,草稿 / 待定,drawings/25f-lab/,
-A-L25-003,25楼实验室,25楼实验室 — 天花 / 灯具平面图,建筑,A,2026-09-03,未开始 / 待定,drawings/25f-lab/,
-E-L25-001,25楼实验室,25楼实验室 — 电气平面图,机电,A,2026-09-03,草稿 / 待定,drawings/25f-lab/,插座、照明、配电
-M-L25-001,25楼实验室,25楼实验室 — 排风 / 暖通平面图,机电,A,2026-09-03,草稿 / 待定,drawings/25f-lab/,通风柜及排风
-P-L25-001,25楼实验室,25楼实验室 — 给排水平面图,机电,A,2026-09-03,草稿 / 待定,drawings/25f-lab/,实验水槽、废水、冲淋
-A-OL-001,旧实验室修改,旧实验室 — 现状 / 拆除范围图,建筑,A,2026-09-03,草稿 — 待审核,drawings/old-lab/,标明保留 / 拆除
-A-OL-002,旧实验室修改,旧实验室 — 改造后平面图,建筑,A,2026-09-03,草稿 — 待审核,drawings/old-lab/,与拆除图对照
-A-OL-003,旧实验室修改,旧实验室 — 台柜及管线改位对照,草图,A,2026-09-03,草稿 / 待定,drawings/old-lab/,避免与25楼新做重复计量
-E-OL-001,旧实验室修改,旧实验室 — 电气改位平面图,机电,A,2026-09-03,草稿 / 待定,drawings/old-lab/,
-M-OL-001,旧实验室修改,旧实验室 — 排风 / 空调改位平面图,机电,A,2026-09-03,草稿 / 待定,drawings/old-lab/,
-A-WH-001,一楼仓库,一楼仓库 — 平面布置图（草稿）,建筑,A,2026-09-03,草稿 — 待审核,drawings/1f-warehouse/,大门、货区、辅房
-A-WH-002,一楼仓库,一楼仓库 — 地坪划线及货架布置,建筑,A,2026-09-03,草稿 / 待定,drawings/1f-warehouse/,货架若甲供仍需此图配合
-E-WH-001,一楼仓库,一楼仓库 — 电气照明平面图,机电,A,2026-09-03,草稿 / 待定,drawings/1f-warehouse/,高天井灯、动力
-F-WH-001,一楼仓库,一楼仓库 — 消防平面图,机电,A,2026-09-03,草稿 / 待定,drawings/1f-warehouse/,喷淋、感烟、疏散
-SK-ALL-001,三区交界,范围边界 / 与原合同交界面草图,草图,A,2026-09-03,草稿 — 待审核,drawings/,防止三份之间或与原合同重复计量
+﻿Dwg no.,Area,Title,Discipline,Rev,Date,Status,File / location,Remarks
+A-L25-001,25F Laboratory,25F laboratory — floor layout (draft),Architecture,A,2026-09-03,Draft — for review,drawings/25f-lab/,"Partitions, zoning, doors"
+A-L25-002,25F Laboratory,25F laboratory — bench and furniture layout,Architecture,A,2026-09-03,Draft / TBD,drawings/25f-lab/,
+A-L25-003,25F Laboratory,25F laboratory — RCP / lighting,Architecture,A,2026-09-03,Not started / TBD,drawings/25f-lab/,
+E-L25-001,25F Laboratory,25F laboratory — electrical layout,MEP,A,2026-09-03,Draft / TBD,drawings/25f-lab/,"Sockets, lighting, DB"
+M-L25-001,25F Laboratory,25F laboratory — extract / HVAC layout,MEP,A,2026-09-03,Draft / TBD,drawings/25f-lab/,Fume hoods and extract
+P-L25-001,25F Laboratory,25F laboratory — plumbing layout,MEP,A,2026-09-03,Draft / TBD,drawings/25f-lab/,"Lab sinks, waste, shower"
+A-OL-001,Existing Lab Modifications,Existing lab — as-built / strip-out,Architecture,A,2026-09-03,Draft — for review,drawings/old-lab/,Mark retain / strip-out
+A-OL-002,Existing Lab Modifications,Existing lab — altered layout,Architecture,A,2026-09-03,Draft — for review,drawings/old-lab/,Read against strip-out drawing
+A-OL-003,Existing Lab Modifications,Existing lab — bench and services relocation overlay,Sketch,A,2026-09-03,Draft / TBD,drawings/old-lab/,Avoid double-counting 25F new work
+E-OL-001,Existing Lab Modifications,Existing lab — electrical relocation,MEP,A,2026-09-03,Draft / TBD,drawings/old-lab/,
+M-OL-001,Existing Lab Modifications,Existing lab — extract / AC relocation,MEP,A,2026-09-03,Draft / TBD,drawings/old-lab/,
+A-WH-001,1F Warehouse,1F warehouse — floor layout (draft),Architecture,A,2026-09-03,Draft — for review,drawings/1f-warehouse/,"Doors, storage, ancillary"
+A-WH-002,1F Warehouse,1F warehouse — floor lining and racking,Architecture,A,2026-09-03,Draft / TBD,drawings/1f-warehouse/,Still needed if racking is client-supplied
+E-WH-001,1F Warehouse,1F warehouse — electrical / lighting,MEP,A,2026-09-03,Draft / TBD,drawings/1f-warehouse/,"High-bay lighting, power"
+F-WH-001,1F Warehouse,1F warehouse — fire layout,MEP,A,2026-09-03,Draft / TBD,drawings/1f-warehouse/,"Sprinklers, detection, escape"
+SK-ALL-001,Interface of three areas,Scope boundary / original-contract interface sketch,Sketch,A,2026-09-03,Draft — for review,drawings/,Avoid double-counting between packs or vs original contract

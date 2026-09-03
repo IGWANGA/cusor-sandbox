@@ -1,52 +1,50 @@
-# 致采购的邮件回复（可直接发送）
+# Email reply to procurement (ready to send)
 
-**收件人：** [姓名]  
-**主题：** 补充报价与图纸（已按区域拆成三份）— 25楼实验室 / 旧实验室修改 / 一楼仓库
+**To:** [Name]  
+**Subject:** Additional BoQ and drawings (split into three packs) — 25F Laboratory / Existing lab modifications / 1F Warehouse
 
 ---
 
-您好 [姓名]，
+Hi [Name],
 
-感谢您的反馈。我理解贵方正在与采购团队进行内部确认，需要先确认额外工程范围后再推进。
+Thank you for the update. I understand you are in internal confirmation with the procurement team and need the additional scope of works confirmed before proceeding.
 
-为方便查看，我把**补充报价和图纸**都拆成了三份，每份只含该区域内容，可分别审核：
+For ease of review, I have split the **additional quotes and drawings** into three packs. Each pack covers one area only:
 
-1. **25 楼实验室** — 报价单 + 平面 / 台柜 / 排风 / 实验水电图纸  
-2. **旧实验室修改** — 报价单 + 拆除范围 / 改造后平面 / 管线改位图纸  
-3. **一楼仓库** — 报价单 + 仓库平面 / 划线货架 / 照明 / 消防图纸
+1. **25F Laboratory** — quote plus layout / benches / extract / lab plumbing drawings  
+2. **Existing lab modifications** — quote plus strip-out / altered layout / services relocation drawings  
+3. **1F Warehouse** — quote plus warehouse layout / lining & racking / lighting / fire drawings
 
-请查收附件（三份独立文件）：
+Please find attached (three separate files):
 
-- **A-25楼实验室-报价与图纸.xlsx**  
-- **B-旧实验室修改-报价与图纸.xlsx**  
-- **C-一楼仓库-报价与图纸.xlsx**  
+- **A-25F-laboratory-quote-and-drawings.xlsx**  
+- **B-existing-lab-mods-quote-and-drawings.xlsx**  
+- **C-1F-warehouse-quote-and-drawings.xlsx**
 
-每份 Excel 内含该区域的报价分项和图纸目录。已完成的草稿平面图另附；尚未出图的在目录中标为「未开始 / 待定」，不随邮件附送。
+Each Excel file has that area’s itemised quote and drawing register. Completed draft layouts are attached separately. Drawings not yet issued are marked **Not started / TBD** on the register and are not attached.
 
-以上均为供内部审核的工作草稿。某一份需要增删分项或图纸，请告知，我将当天改完发回。
+These are working drafts for internal review. If any pack needs items or drawings added or removed, tell me and I will revise the same day.
 
-请确认以下事项：
-- 三份范围是否就是采购正在审核的额外工程（有无遗漏或应剔除）  
-- 希望的格式（目前为 Excel；如需 PDF 可再出）  
-- 现阶段是否需要列出综合单价，还是仅提供工程量及工作内容说明  
-- 旧实验室修改是否含设备移位；一楼仓库是否含货架供货（目前货架仅列基础/预埋配合）
+Please confirm:
+- Whether these three areas are the extra scope the team is reviewing (anything missing or to drop)  
+- Preferred format (Excel now; PDF on request)  
+- Whether unit rates should be shown now, or quantities and descriptions only  
+- Whether existing-lab modifications include equipment relocation; whether the warehouse pack includes racking supply (currently builder’s work / embeds only)
 
-图纸如有更新，我将按区域补发，不会再混在一份里。
+I will issue drawing updates **by area**, not as one mixed set.
 
-此致  
-敬礼  
+Best regards,  
 Wang
 
 ---
 
-## 可选短版（当天即发附件时使用）
+## Short version (when sending the same day)
 
-您好 [姓名]，
+Hi [Name],
 
-感谢来信。为方便采购内部确认，补充报价和图纸已按区域拆成三份：**25 楼实验室**、**旧实验室修改**、**一楼仓库**。每份含该区域报价单和图纸目录。
+Thank you for the note. For ease of review, the additional quotes and drawings are split into three packs: **25F Laboratory**, **Existing lab modifications**, and **1F Warehouse**. Each file has that area’s quote and drawing register.
 
-请按份确认范围后，我可再调整分项或补图。
+Please confirm the scope of each pack and I can adjust items or issue further drawings.
 
-此致  
-敬礼  
+Best regards,  
 Wang
