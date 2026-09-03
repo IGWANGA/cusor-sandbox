@@ -1,0 +1,46 @@
+﻿Item,Area,Trade,Description,Unit,Qty,Rate,Amount,Remarks
+A,Existing Lab Modifications,Protection,"Protect retained equipment, services and adjacent rooms during works",item,1,,,
+A.1,Existing Lab Modifications,Protection,Wrap existing instruments and benches; rigid barriers,item,1,,,Required at occupied interfaces
+A.2,Existing Lab Modifications,Protection,"Isolation, dust control and temporary access",item,1,,,
+B,Existing Lab Modifications,Strip-out,"Strip partitions, ceilings, floors, benches and redundant services in the alteration zone",item,1,,,Confirm retain list before strip-out
+B.1,Existing Lab Modifications,Strip-out,Remove light partitions (incl. cart-away),m2,,,,
+B.2,Existing Lab Modifications,Strip-out,Local ceiling strip-out,m2,,,,
+B.3,Existing Lab Modifications,Strip-out,Local floor-finish removal,m2,,,,
+B.4,Existing Lab Modifications,Strip-out,Remove or disconnect benches for relocation (no new furniture),item,1,,,Confirm relocate vs dispose
+B.5,Existing Lab Modifications,Strip-out,Remove redundant electrical points and make good,nr,,,,
+B.6,Existing Lab Modifications,Strip-out,Remove redundant plumbing / extract duct,m,,,,
+B.7,Existing Lab Modifications,Strip-out,Construction waste removal,item,1,,,
+C,Existing Lab Modifications,Builder’s work,"Partitions, doors, floors, walls and ceilings made good or new to the altered layout",item,1,,,
+C.1,Existing Lab Modifications,Builder’s work,New / modified light-gauge stud partition,m2,,,,
+C.2,Existing Lab Modifications,Builder’s work,"Relocate, replace or block door openings",nr,,,,
+C.3,Existing Lab Modifications,Builder’s work,Floor patching and local epoxy / PVC matching,m2,,,,Match retained floor colour
+C.4,Existing Lab Modifications,Builder’s work,Wall repair and chemical-resistant recoating,m2,,,,
+C.5,Existing Lab Modifications,Builder’s work,"Ceiling repair, level and replace damaged tiles",m2,,,,
+D,Existing Lab Modifications,Bench alterations,"Relocate, join and patch retained lab furniture",item,1,,,
+D.1,Existing Lab Modifications,Bench alterations,"Move benches, re-fix and level",m,,,,
+D.2,Existing Lab Modifications,Bench alterations,"Cut worktops, edge and recut sink openings",item,1,,,
+D.3,Existing Lab Modifications,Bench alterations,Short run of new wall bench (gap infill only),m,,,,Large new runs belong on the 25F pack
+E,Existing Lab Modifications,Electrical alterations,"Relocate circuits, adjust DB and lighting points",item,1,,,
+E.1,Existing Lab Modifications,Electrical alterations,Relocate or add socket / circuit,nr,,,,
+E.2,Existing Lab Modifications,Electrical alterations,Relocate or replace luminaire,set,,,,
+E.3,Existing Lab Modifications,Electrical alterations,Adjust circuits in existing DB,item,1,,,Keep existing board unless capacity is short
+E.4,Existing Lab Modifications,Electrical alterations,Insulation and energisation tests after works,item,1,,,
+F,Existing Lab Modifications,HVAC / extract alterations,"Reroute ductwork, relocate fume hoods and rebalance air",item,1,,,
+F.1,Existing Lab Modifications,HVAC / extract alterations,Relocate fume hood (incl. reconnect extract),nr,,,,Delete if hood is scrapped
+F.2,Existing Lab Modifications,HVAC / extract alterations,Reroute extract / make-up duct,m,,,,
+F.3,Existing Lab Modifications,HVAC / extract alterations,Relocate indoor AC unit or adjust grilles,nr,,,,
+F.4,Existing Lab Modifications,HVAC / extract alterations,Recommission air volume and room pressure,item,1,,,
+G,Existing Lab Modifications,Plumbing alterations,"Relocate sinks, taps and waste",item,1,,,
+G.1,Existing Lab Modifications,Plumbing alterations,Relocate hot/cold water point,nr,,,,
+G.2,Existing Lab Modifications,Plumbing alterations,Reroute chemical-resistant waste,m,,,,
+G.3,Existing Lab Modifications,Plumbing alterations,Relocate floor drain and make good falls,nr,,,,
+G.4,Existing Lab Modifications,Plumbing alterations,Pressure test and flush after works,item,1,,,
+H,Existing Lab Modifications,ELV alterations,"Relocate data, access, CCTV and fire points with partitions",item,1,,,Confirm if in this package
+H.1,Existing Lab Modifications,ELV alterations,Relocate / reinstate data outlet,nr,,,,
+H.2,Existing Lab Modifications,ELV alterations,Relocate access / CCTV point,nr,,,,
+H.3,Existing Lab Modifications,ELV alterations,Relocate and reset fire detector,nr,,,,
+I,Existing Lab Modifications,Make-good & clean,"Interface with retained areas, close openings, clean handover",item,1,,,
+I.1,Existing Lab Modifications,Make-good & clean,Fire-stop openings and decorative close-up,item,1,,,
+I.2,Existing Lab Modifications,Make-good & clean,Match finishes and floors to unaltered areas,item,1,,,Avoid obvious colour mismatch
+I.3,Existing Lab Modifications,Make-good & clean,"Final clean, remove protection, assist equipment reset",item,1,,,
+J,Existing Lab Modifications,Provisional,Contingency for existing-lab alterations (optional; hidden services risk),item,1,,,Delete if not required

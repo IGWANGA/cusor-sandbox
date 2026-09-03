@@ -1,0 +1,63 @@
+﻿Item,Area,Trade,Description,Unit,Qty,Rate,Amount,Remarks
+A,25F Laboratory,Preliminaries,"Management, vertical transport, access and temporary works for the 25F laboratory only",item,1,,,This area only
+A.1,25F Laboratory,Preliminaries,"Protection of finishes, lifts and public corridors on this floor",item,1,,,
+A.2,25F Laboratory,Preliminaries,Hoarding / dust screens at the office interface,item,1,,,
+A.3,25F Laboratory,Preliminaries,Sorted construction waste removal (Level 25),item,1,,,
+B,25F Laboratory,Partitions & doors,"Laboratory zoning partitions, vision panels, pass-throughs and lab doors",item,1,,,
+B.1,25F Laboratory,Partitions & doors,"Light-gauge steel stud partition, double-sided fire-rated plasterboard (incl. joints and corners)",m2,,,,Measure from confirmed layout
+B.2,25F Laboratory,Partitions & doors,"Laboratory door (vision panel, closer, seals)",nr,,,,
+B.3,25F Laboratory,Partitions & doors,"Fire door (lobby / electrical / gas bottle room, per fire review)",nr,,,,If applicable
+B.4,25F Laboratory,Partitions & doors,Pass-through window (mechanical or electronic interlock),nr,,,,If shown on layout
+B.5,25F Laboratory,Partitions & doors,Internal vision panel / fixed glazed screen,m2,,,,
+C,25F Laboratory,Flooring,Laboratory flooring (incl. substrate and skirting),item,1,,,
+C.1,25F Laboratory,Flooring,"Clean existing floor, level, repair cracks",m2,,,,
+C.2,25F Laboratory,Flooring,Laboratory epoxy floor (or equivalent PVC sheet — to be confirmed),m2,,,,Confirm finish
+C.3,25F Laboratory,Flooring,"Anti-static flooring (equipment room, if required)",m2,,,,Equipment room only
+C.4,25F Laboratory,Flooring,Chemical-resistant skirting,m,,,,
+C.5,25F Laboratory,Flooring,Floor drain and falls (wet areas),nr,,,,
+D,25F Laboratory,Walls & ceilings,Laboratory wall finishes and ceiling,item,1,,,
+D.1,25F Laboratory,Walls & ceilings,Chemical-resistant wall coating / laboratory wall panels,m2,,,,Confirm paint or panels
+D.2,25F Laboratory,Walls & ceilings,Aluminium or clean-room ceiling (incl. grid and access panels),m2,,,,
+D.3,25F Laboratory,Walls & ceilings,Equipment hangers and fire-stopping at ceiling penetrations,item,1,,,
+E,25F Laboratory,Lab furniture,"Benches, reagent cabinets, glassware cabinets and installation",item,1,,,Furniture supply scope TBC
+E.1,25F Laboratory,Lab furniture,"Wall / island bench (worktop, frame, reagent shelf)",m,,,,Per layout
+E.2,25F Laboratory,Lab furniture,Reagent cabinet / glassware cabinet / changing locker,nr,,,,
+E.3,25F Laboratory,Lab furniture,Builder’s work for emergency shower / eyewash (opening and fixings),set,,,,Note if client-supplied
+F,25F Laboratory,Fume hoods & extract,Fume hoods and laboratory extract / make-up air,item,1,,,
+F.1,25F Laboratory,Fume hoods & extract,Fume hood supply and install (incl. face-velocity commissioning),nr,,,,Qty per layout
+F.2,25F Laboratory,Fume hoods & extract,Extract ductwork (incl. supports and fire dampers),m,,,,
+F.3,25F Laboratory,Fume hoods & extract,Make-up / 100% fresh-air ductwork,m,,,,
+F.4,25F Laboratory,Fume hoods & extract,Extract / roof fan (incl. vibration isolation and cowl),nr,,,,Location TBC
+F.5,25F Laboratory,Fume hoods & extract,Room pressure and air-volume balancing,item,1,,,
+G,25F Laboratory,HVAC,Laboratory air-conditioning (comfort or process — TBC),item,1,,,
+G.1,25F Laboratory,HVAC,Indoor unit / terminal / grille,nr,,,,
+G.2,25F Laboratory,HVAC,Refrigerant pipe / condensate drain,m,,,,
+G.3,25F Laboratory,HVAC,Controls point,nr,,,,
+H,25F Laboratory,Electrical,Laboratory power and lighting,item,1,,,
+H.1,25F Laboratory,Electrical,Dedicated laboratory DB and breakers,nr,,,,
+H.2,25F Laboratory,Electrical,"Cables, tray and conduit",m,,,,
+H.3,25F Laboratory,Electrical,Under-bench / wall sockets (weatherproof covers where needed),nr,,,,
+H.4,25F Laboratory,Electrical,Clean-room / panel luminaire,set,,,,
+H.5,25F Laboratory,Electrical,Emergency lighting and exit signs,set,,,,
+H.6,25F Laboratory,Electrical,Equipotential bonding and earthing,item,1,,,Required for laboratory
+H.7,25F Laboratory,Electrical,Electrical testing and commissioning,item,1,,,
+I,25F Laboratory,Plumbing,"Lab water, purified-water points and waste",item,1,,,
+I.1,25F Laboratory,Plumbing,"Bench sink, tap and pipework",set,,,,
+I.2,25F Laboratory,Plumbing,Purified / DI water point builder’s work,nr,,,,Builder’s work only if system is client-supplied
+I.3,25F Laboratory,Plumbing,Chemical-resistant waste pipe,m,,,,
+I.4,25F Laboratory,Plumbing,Waste collection / neutralisation (provisional),item,1,,,Optional — pending process
+I.5,25F Laboratory,Plumbing,Emergency shower water supply and drain,set,,,,
+I.6,25F Laboratory,Plumbing,Pressure test and flush,item,1,,,
+J,25F Laboratory,Special gases,Gas bottle room and pipework (if applicable),item,1,,,Delete whole trade if not required
+J.1,25F Laboratory,Special gases,Cylinder restraint and gas pipework,m,,,,
+J.2,25F Laboratory,Special gases,Flammable / toxic gas detector,nr,,,,
+K,25F Laboratory,ELV,"Data, access control, CCTV and fire alarm",item,1,,,Confirm if in this package
+K.1,25F Laboratory,ELV,Data outlet,nr,,,,
+K.2,25F Laboratory,ELV,Access-control point,nr,,,,
+K.3,25F Laboratory,ELV,CCTV point,nr,,,,
+K.4,25F Laboratory,ELV,Fire detector / MCP / sounder,nr,,,,
+L,25F Laboratory,Fire & handover,"Fire-stopping, extinguishers and clean handover",item,1,,,
+L.1,25F Laboratory,Fire & handover,Fire-stopping of sleeves and openings,item,1,,,
+L.2,25F Laboratory,Fire & handover,Extinguisher cabinet and contents,set,,,,
+L.3,25F Laboratory,Fire & handover,Final clean and removal of protection,item,1,,,
+M,25F Laboratory,Provisional,Contingency for 25F laboratory (optional),item,1,,,Delete if not required

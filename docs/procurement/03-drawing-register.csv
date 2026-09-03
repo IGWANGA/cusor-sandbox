@@ -1,0 +1,17 @@
+﻿Dwg no.,Area,Title,Discipline,Rev,Date,Status,File / location,Remarks
+A-L25-001,25F Laboratory,25F laboratory — floor layout (draft),Architecture,A,2026-09-03,Draft — for review,drawings/25f-lab/,"Partitions, zoning, doors"
+A-L25-002,25F Laboratory,25F laboratory — bench and furniture layout,Architecture,A,2026-09-03,Draft / TBD,drawings/25f-lab/,
+A-L25-003,25F Laboratory,25F laboratory — RCP / lighting,Architecture,A,2026-09-03,Not started / TBD,drawings/25f-lab/,
+E-L25-001,25F Laboratory,25F laboratory — electrical layout,MEP,A,2026-09-03,Draft / TBD,drawings/25f-lab/,"Sockets, lighting, DB"
+M-L25-001,25F Laboratory,25F laboratory — extract / HVAC layout,MEP,A,2026-09-03,Draft / TBD,drawings/25f-lab/,Fume hoods and extract
+P-L25-001,25F Laboratory,25F laboratory — plumbing layout,MEP,A,2026-09-03,Draft / TBD,drawings/25f-lab/,"Lab sinks, waste, shower"
+A-OL-001,Existing Lab Modifications,Existing lab — as-built / strip-out,Architecture,A,2026-09-03,Draft — for review,drawings/old-lab/,Mark retain / strip-out
+A-OL-002,Existing Lab Modifications,Existing lab — altered layout,Architecture,A,2026-09-03,Draft — for review,drawings/old-lab/,Read against strip-out drawing
+A-OL-003,Existing Lab Modifications,Existing lab — bench and services relocation overlay,Sketch,A,2026-09-03,Draft / TBD,drawings/old-lab/,Avoid double-counting 25F new work
+E-OL-001,Existing Lab Modifications,Existing lab — electrical relocation,MEP,A,2026-09-03,Draft / TBD,drawings/old-lab/,
+M-OL-001,Existing Lab Modifications,Existing lab — extract / AC relocation,MEP,A,2026-09-03,Draft / TBD,drawings/old-lab/,
+A-WH-001,1F Warehouse,1F warehouse — floor layout (draft),Architecture,A,2026-09-03,Draft — for review,drawings/1f-warehouse/,"Doors, storage, ancillary"
+A-WH-002,1F Warehouse,1F warehouse — floor lining and racking,Architecture,A,2026-09-03,Draft / TBD,drawings/1f-warehouse/,Still needed if racking is client-supplied
+E-WH-001,1F Warehouse,1F warehouse — electrical / lighting,MEP,A,2026-09-03,Draft / TBD,drawings/1f-warehouse/,"High-bay lighting, power"
+F-WH-001,1F Warehouse,1F warehouse — fire layout,MEP,A,2026-09-03,Draft / TBD,drawings/1f-warehouse/,"Sprinklers, detection, escape"
+SK-ALL-001,Interface of three areas,Scope boundary / original-contract interface sketch,Sketch,A,2026-09-03,Draft — for review,drawings/,Avoid double-counting between packs or vs original contract
