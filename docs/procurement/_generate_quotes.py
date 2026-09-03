@@ -190,25 +190,31 @@ SUMMARY = [
     ("D", "三份合计", "合计", "上述 A+B+C，仅为额外/补充范围", "项", "1", "", "", "不含原合同金额"),
 ]
 
-DRAWINGS = [
-    # 图号, 区域, 图名, 类型, 版本, 日期, 状态, 文件/位置, 备注
+DWG_25F = [
     ("A-L25-001", LAB, "25楼实验室 — 平面布置图（草稿）", "建筑", "A", "2026-09-03", "草稿 — 待审核", "drawings/25f-lab/", "隔墙、功能分区、门窗"),
     ("A-L25-002", LAB, "25楼实验室 — 实验台及家具布置图", "建筑", "A", "2026-09-03", "草稿 / 待定", "drawings/25f-lab/", ""),
     ("A-L25-003", LAB, "25楼实验室 — 天花 / 灯具平面图", "建筑", "A", "2026-09-03", "未开始 / 待定", "drawings/25f-lab/", ""),
     ("E-L25-001", LAB, "25楼实验室 — 电气平面图", "机电", "A", "2026-09-03", "草稿 / 待定", "drawings/25f-lab/", "插座、照明、配电"),
     ("M-L25-001", LAB, "25楼实验室 — 排风 / 暖通平面图", "机电", "A", "2026-09-03", "草稿 / 待定", "drawings/25f-lab/", "通风柜及排风"),
     ("P-L25-001", LAB, "25楼实验室 — 给排水平面图", "机电", "A", "2026-09-03", "草稿 / 待定", "drawings/25f-lab/", "实验水槽、废水、冲淋"),
+]
+DWG_OLD = [
     ("A-OL-001", OLD, "旧实验室 — 现状 / 拆除范围图", "建筑", "A", "2026-09-03", "草稿 — 待审核", "drawings/old-lab/", "标明保留 / 拆除"),
     ("A-OL-002", OLD, "旧实验室 — 改造后平面图", "建筑", "A", "2026-09-03", "草稿 — 待审核", "drawings/old-lab/", "与拆除图对照"),
     ("A-OL-003", OLD, "旧实验室 — 台柜及管线改位对照", "草图", "A", "2026-09-03", "草稿 / 待定", "drawings/old-lab/", "避免与25楼新做重复计量"),
     ("E-OL-001", OLD, "旧实验室 — 电气改位平面图", "机电", "A", "2026-09-03", "草稿 / 待定", "drawings/old-lab/", ""),
     ("M-OL-001", OLD, "旧实验室 — 排风 / 空调改位平面图", "机电", "A", "2026-09-03", "草稿 / 待定", "drawings/old-lab/", ""),
+]
+DWG_WH = [
     ("A-WH-001", WH, "一楼仓库 — 平面布置图（草稿）", "建筑", "A", "2026-09-03", "草稿 — 待审核", "drawings/1f-warehouse/", "大门、货区、辅房"),
     ("A-WH-002", WH, "一楼仓库 — 地坪划线及货架布置", "建筑", "A", "2026-09-03", "草稿 / 待定", "drawings/1f-warehouse/", "货架若甲供仍需此图配合"),
     ("E-WH-001", WH, "一楼仓库 — 电气照明平面图", "机电", "A", "2026-09-03", "草稿 / 待定", "drawings/1f-warehouse/", "高天井灯、动力"),
     ("F-WH-001", WH, "一楼仓库 — 消防平面图", "机电", "A", "2026-09-03", "草稿 / 待定", "drawings/1f-warehouse/", "喷淋、感烟、疏散"),
+]
+DWG_SHARED = [
     ("SK-ALL-001", "三区交界", "范围边界 / 与原合同交界面草图", "草图", "A", "2026-09-03", "草稿 — 待审核", "drawings/", "防止三份之间或与原合同重复计量"),
 ]
+DRAWINGS = DWG_25F + DWG_OLD + DWG_WH + DWG_SHARED
 
 DRAWING_HEADERS = ["图号", "区域", "图名", "类型", "版本", "日期", "状态", "文件/位置", "备注"]
 
@@ -330,19 +336,19 @@ def write_boq_sheet(ws, title: str, rows: list[tuple]) -> int:
 
 def write_summary_sheet(ws, total_cells: dict[str, str]) -> None:
     ws.sheet_view.showGridLines = False
-    ws["A1"] = "补充报价总览 — 已按区域拆成三份"
+    ws["A1"] = "补充报价与图纸总览 — 已按区域拆成三份"
     ws["A1"].font = Font(name="Microsoft YaHei", size=16, bold=True, color="1F4E79")
     ws.merge_cells("A1:G1")
     ws.row_dimensions[1].height = 28
 
-    ws["A2"] = "日期：2026年9月3日    目的：采购内部确认额外工程范围    不含原合同金额"
+    ws["A2"] = "日期：2026年9月3日    目的：采购内部确认额外工程范围    报价与图纸按同一区域拆分    不含原合同金额"
     ws["A2"].font = Font(name="Microsoft YaHei", size=9, italic=True, color="666666")
     ws.merge_cells("A2:G2")
 
     notes = [
-        "A  25楼实验室：新做实验室隔墙、饰面、台柜、通风柜及排风、实验水电。",
-        "B  旧实验室修改：保护、拆除、改隔墙、台柜/管线改位及修复；不要与 25 楼新做合并计量。",
-        "C  一楼仓库：地坪、卷帘门、高天井照明、动力、消防、装卸配合；货架供货默认不含。",
+        "A  25楼实验室：报价 + 图纸（平面、台柜、排风、实验水电）。独立文件：A-25楼实验室-报价与图纸.xlsx",
+        "B  旧实验室修改：报价 + 图纸（拆除范围、改造后平面、管线改位）。独立文件：B-旧实验室修改-报价与图纸.xlsx",
+        "C  一楼仓库：报价 + 图纸（平面、划线货架、照明、消防）。独立文件：C-一楼仓库-报价与图纸.xlsx",
     ]
     for i, text in enumerate(notes):
         ws.cell(4 + i, 1, text)
@@ -409,8 +415,9 @@ def write_summary_sheet(ws, total_cells: dict[str, str]) -> None:
         "1. 打开对应区域工作表，按实量填写「工程量」；采购要求带价时再填「单价」，「合价」自动计算。",
         "2. 不属于该区域的行请删除（例如仓库单里不要留通风柜；25楼单里不要留旧实验室拆除）。",
         "3. 本页「状态」列请采购按份选择：确认 / 修改 / 不需要。",
-        "4. 图纸按区域放入 drawings/25f-lab、drawings/old-lab、drawings/1f-warehouse。",
-        "5. 货架供货、实验废水中和、特种气体、辅房隔间等为可选项，不需要则删除对应行。",
+        "4. 图纸与报价同一区域：25楼放 drawings/25f-lab，旧实验室放 drawings/old-lab，仓库放 drawings/1f-warehouse。",
+        "5. 发给采购时优先附三份独立文件（A/B/C 各含报价单+图纸目录），不要再发混在一起的旧版。",
+        "6. 货架供货、实验废水中和、特种气体、辅房隔间等为可选项，不需要则删除对应行。",
     ]
     for i, s in enumerate(steps):
         ws.cell(15 + i, 1, s)
@@ -428,12 +435,12 @@ def write_summary_sheet(ws, total_cells: dict[str, str]) -> None:
     ws.page_setup.paperSize = ws.PAPERSIZE_A4
 
 
-def write_drawing_sheet(ws) -> None:
+def write_drawing_sheet(ws, title: str, rows: list[tuple]) -> None:
     ws.sheet_view.showGridLines = False
-    ws["A1"] = "图纸目录 — 按三个区域"
+    ws["A1"] = title
     ws["A1"].font = Font(name="Microsoft YaHei", size=16, bold=True, color="1F4E79")
     ws.merge_cells("A1:I1")
-    ws["A2"] = "尚未完成的图不要附在邮件里，目录中标注为「未开始 / 待定」即可。"
+    ws["A2"] = "尚未完成的图不要附在邮件里，目录中标注为「未开始 / 待定」即可。图纸与报价同一区域，不要混放。"
     ws["A2"].font = Font(name="Microsoft YaHei", size=9, italic=True, color="666666")
     ws.merge_cells("A2:I2")
 
@@ -445,7 +452,7 @@ def write_drawing_sheet(ws) -> None:
         cell.alignment = CENTER
         cell.border = THIN
     ws.freeze_panes = "A5"
-    for i, row in enumerate(DRAWINGS):
+    for i, row in enumerate(rows):
         r = hr + 1 + i
         area = row[1]
         fill = AREA_FILLS.get(area)
@@ -457,7 +464,7 @@ def write_drawing_sheet(ws) -> None:
             if fill and c == 2:
                 cell.fill = fill
         ws.row_dimensions[r].height = 32
-    last = hr + len(DRAWINGS)
+    last = hr + len(rows)
     widths = {"A": 14, "B": 16, "C": 42, "D": 10, "E": 8, "F": 14, "G": 16, "H": 22, "I": 28}
     for col, w in widths.items():
         ws.column_dimensions[col].width = w
@@ -468,12 +475,31 @@ def write_drawing_sheet(ws) -> None:
     ws.page_setup.fitToHeight = 1
 
 
+def write_area_pack(path: Path, title: str, boq_rows: list[tuple], dwg_rows: list[tuple]) -> None:
+    """One area = one file: quote sheet + drawing register."""
+    wb = Workbook()
+    ws_boq = wb.active
+    ws_boq.title = "报价单"
+    write_boq_sheet(ws_boq, title, boq_rows)
+    ws_dwg = wb.create_sheet("图纸目录")
+    write_drawing_sheet(ws_dwg, f"{title} — 图纸目录", dwg_rows)
+    wb.save(path)
+    print(f"wrote {path}")
+
+
 def main() -> None:
     write_csv(ROOT / "02-boq-summary.csv", HEADERS, SUMMARY)
     write_csv(ROOT / "02a-boq-25f-lab.csv", HEADERS, BOQ_25F)
     write_csv(ROOT / "02b-boq-old-lab.csv", HEADERS, BOQ_OLD)
     write_csv(ROOT / "02c-boq-1f-warehouse.csv", HEADERS, BOQ_WH)
+    write_csv(ROOT / "03a-drawings-25f-lab.csv", DRAWING_HEADERS, DWG_25F)
+    write_csv(ROOT / "03b-drawings-old-lab.csv", DRAWING_HEADERS, DWG_OLD)
+    write_csv(ROOT / "03c-drawings-1f-warehouse.csv", DRAWING_HEADERS, DWG_WH)
     write_csv(ROOT / "03-drawing-register.csv", DRAWING_HEADERS, DRAWINGS)
+
+    write_area_pack(ROOT / "A-25楼实验室-报价与图纸.xlsx", LAB, BOQ_25F, DWG_25F)
+    write_area_pack(ROOT / "B-旧实验室修改-报价与图纸.xlsx", OLD, BOQ_OLD, DWG_OLD)
+    write_area_pack(ROOT / "C-一楼仓库-报价与图纸.xlsx", WH, BOQ_WH, DWG_WH)
 
     wb = Workbook()
     ws_sum = wb.active
@@ -482,7 +508,10 @@ def main() -> None:
     ws_lab = wb.create_sheet("25楼实验室")
     ws_old = wb.create_sheet("旧实验室修改")
     ws_wh = wb.create_sheet("一楼仓库")
-    ws_dwg = wb.create_sheet("图纸目录")
+    ws_dwg_lab = wb.create_sheet("25楼图纸")
+    ws_dwg_old = wb.create_sheet("旧实验室图纸")
+    ws_dwg_wh = wb.create_sheet("一楼仓库图纸")
+    ws_dwg_all = wb.create_sheet("图纸总目录")
 
     lab_total_row = write_boq_sheet(ws_lab, "25楼实验室", BOQ_25F)
     old_total_row = write_boq_sheet(ws_old, "旧实验室修改", BOQ_OLD)
@@ -494,14 +523,12 @@ def main() -> None:
         WH: f"='一楼仓库'!H{wh_total_row}",
     }
     write_summary_sheet(ws_sum, total_cells)
-    write_drawing_sheet(ws_dwg)
+    write_drawing_sheet(ws_dwg_lab, "25楼实验室 — 图纸目录", DWG_25F)
+    write_drawing_sheet(ws_dwg_old, "旧实验室修改 — 图纸目录", DWG_OLD)
+    write_drawing_sheet(ws_dwg_wh, "一楼仓库 — 图纸目录", DWG_WH)
+    write_drawing_sheet(ws_dwg_all, "图纸总目录 — 三区 + 交界面", DRAWINGS)
 
-    # 打印标题
-    ws_lab.print_title_rows = "4:4"
-    ws_old.print_title_rows = "4:4"
-    ws_wh.print_title_rows = "4:4"
-
-    out = ROOT / "报价单-按区域拆分.xlsx"
+    out = ROOT / "报价与图纸-按区域拆分.xlsx"
     wb.save(out)
     print(f"wrote {out}")
     print(f"25F rows={len(BOQ_25F)} old={len(BOQ_OLD)} wh={len(BOQ_WH)} dwg={len(DRAWINGS)}")
