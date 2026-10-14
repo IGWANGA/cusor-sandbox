@@ -1,0 +1,5 @@
+﻿Item,Area,Trade,Description,Unit,Qty,Rate,Amount,Remarks
+A,25F Laboratory,Area subtotal,All additional works for the 25F laboratory (see itemised sheet),item,1,,,Amount from sheet “25F Laboratory”
+B,Existing Lab Modifications,Area subtotal,All additional works for existing lab modifications (see itemised sheet),item,1,,,Amount from sheet “Existing Lab Mods”
+C,1F Warehouse,Area subtotal,All additional works for the 1F warehouse (see itemised sheet),item,1,,,Amount from sheet “1F Warehouse”
+D,Three packs total,Total,A + B + C above; additional / extra scope only,item,1,,,Excludes original contract

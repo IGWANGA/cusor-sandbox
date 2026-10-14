@@ -1,0 +1,6 @@
+﻿Dwg no.,Area,Title,Discipline,Rev,Date,Status,File / location,Remarks
+A-OL-001,Existing Lab Modifications,Existing lab — as-built / strip-out,Architecture,A,2026-09-03,Draft — for review,drawings/old-lab/,Mark retain / strip-out
+A-OL-002,Existing Lab Modifications,Existing lab — altered layout,Architecture,A,2026-09-03,Draft — for review,drawings/old-lab/,Read against strip-out drawing
+A-OL-003,Existing Lab Modifications,Existing lab — bench and services relocation overlay,Sketch,A,2026-09-03,Draft / TBD,drawings/old-lab/,Avoid double-counting 25F new work
+E-OL-001,Existing Lab Modifications,Existing lab — electrical relocation,MEP,A,2026-09-03,Draft / TBD,drawings/old-lab/,
+M-OL-001,Existing Lab Modifications,Existing lab — extract / AC relocation,MEP,A,2026-09-03,Draft / TBD,drawings/old-lab/,

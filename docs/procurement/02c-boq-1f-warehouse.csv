@@ -1,0 +1,47 @@
+﻿Item,Area,Trade,Description,Unit,Qty,Rate,Amount,Remarks
+A,1F Warehouse,Preliminaries,"Management, unloading access, hoarding and temporary works for the 1F warehouse only",item,1,,,This area only
+A.1,1F Warehouse,Preliminaries,"Occupation of 1F loading door, temporary hoarding and traffic guidance",item,1,,,
+A.2,1F Warehouse,Preliminaries,"Protection of columns, doorways and completed floors",item,1,,,
+A.3,1F Warehouse,Preliminaries,Construction waste removal (Level 1),item,1,,,
+B,1F Warehouse,Flooring,"Warehouse slab, levelling, finish and lining",item,1,,,
+B.1,1F Warehouse,Flooring,"Clean existing slab, repair hollow spots, level",m2,,,,
+B.2,1F Warehouse,Flooring,Concrete make-up / hardener (if required),m2,,,,Confirm if structural slab already exists
+B.3,1F Warehouse,Flooring,Epoxy floor (or wear-resistant finish — TBC),m2,,,,
+B.4,1F Warehouse,Flooring,Bay / aisle lining and numbering,m,,,,
+B.5,1F Warehouse,Flooring,Column guards / corner protection,nr,,,,
+C,1F Warehouse,Walls & doors,"Wall coatings, impact protection and doors",item,1,,,
+C.1,1F Warehouse,Walls & doors,Internal plaster repair and paint (incl. intumescent if required),m2,,,,
+C.2,1F Warehouse,Walls & doors,"Powered roller shutter (incl. guides, motor, controls)",nr,,,,Loading door
+C.3,1F Warehouse,Walls & doors,Pedestrian fire / escape door,nr,,,,
+C.4,1F Warehouse,Walls & doors,"Lobby, canopy or loading-dock rain protection",item,1,,,If present on site
+D,1F Warehouse,Racking builder’s work,"Racking bases, embeds and install attend (racking supply excluded unless confirmed)",item,1,,,Confirm racking supply with procurement
+D.1,1F Warehouse,Racking builder’s work,Embed / chemical-anchor racking base bolts,nr,,,,
+D.2,1F Warehouse,Racking builder’s work,Local thickened base or blinding,m3,,,,Per racking supplier loads
+D.3,1F Warehouse,Racking builder’s work,"Racking supply and install (provisional, optional)",item,1,,,Delete if not in this contract
+E,1F Warehouse,Power & lighting,Warehouse power distribution and high-bay lighting,item,1,,,
+E.1,1F Warehouse,Power & lighting,Warehouse distribution board,nr,,,,
+E.2,1F Warehouse,Power & lighting,"Cables, tray and conduit",m,,,,
+E.3,1F Warehouse,Power & lighting,High-bay / LED industrial luminaire,set,,,,
+E.4,1F Warehouse,Power & lighting,Emergency lighting and exit signs,set,,,,
+E.5,1F Warehouse,Power & lighting,Forklift / charging or power socket (if required),nr,,,,
+E.6,1F Warehouse,Power & lighting,Electrical testing and commissioning,item,1,,,
+F,1F Warehouse,Ventilation,"Warehouse ventilation (fans or duct, per height and stock)",item,1,,,Delete if natural ventilation only
+F.1,1F Warehouse,Ventilation,Extract fan / roof fan,nr,,,,
+F.2,1F Warehouse,Ventilation,Duct and grille (if any),m,,,,
+G,1F Warehouse,Fire,"Warehouse sprinklers, detection, extinguishers and fire-stopping",item,1,,,Per fire review
+G.1,1F Warehouse,Fire,"Sprinkler pipe, heads and supports",m,,,,Note if tying into existing system
+G.2,1F Warehouse,Fire,Smoke / heat detector,nr,,,,
+G.3,1F Warehouse,Fire,Relocate or add hose-reel cabinet (if required),set,,,,
+G.4,1F Warehouse,Fire,Extinguisher cabinet and contents,set,,,,
+G.5,1F Warehouse,Fire,Fire-stopping,item,1,,,
+H,1F Warehouse,ELV,"CCTV, access and data (warehouse office corner, if any)",item,1,,,Confirm if in this package
+H.1,1F Warehouse,ELV,CCTV point,nr,,,,Loading door and storage
+H.2,1F Warehouse,ELV,Access-control point,nr,,,,
+H.3,1F Warehouse,ELV,Data outlet (duty / small office),nr,,,,
+I,1F Warehouse,Ancillary room (optional),Duty / small office partitions and simple fit-out inside the warehouse,item,1,,,Delete whole trade if no ancillary room
+I.1,1F Warehouse,Ancillary room (optional),Light partitions and door,m2,,,,
+I.2,1F Warehouse,Ancillary room (optional),"Simple ceiling, floor and lights",m2,,,,
+J,1F Warehouse,Signage & handover,Signs and final clean,item,1,,,
+J.1,1F Warehouse,Signage & handover,"Safety signs, height limit, no-storage and escape plan",item,1,,,
+J.2,1F Warehouse,Signage & handover,Final clean and removal of protection,item,1,,,
+K,1F Warehouse,Provisional,Contingency for 1F warehouse (optional),item,1,,,Delete if not required
